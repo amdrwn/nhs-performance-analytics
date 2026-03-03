@@ -1,0 +1,10 @@
+raw/
+clean/
+*.csv
+*.xlsx
+*.xls
+__pycache__/
+*.pyc
+.vscode/
+.env
+.DS_Store
